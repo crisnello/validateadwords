@@ -1,0 +1,3 @@
+./validateadwords_batch.sh: line 59: 20677 Killed                  /usr/lib/jvm/java-6-openjdk/bin/java -Xms256M -Xmx512M -Dfile.encoding=UTF-8 -classpath $CLASSPATH com.validateadwords.batch.inicio.Inicio $D_IMPORT/ >> $F_LOG 2>> $F_LOG
+./validateadwords_batch.sh: line 58: 14454 Killed                  /usr/lib/jvm/java-6-openjdk/bin/java -Xms256M -Xmx512M -Dfile.encoding=UTF-8 -classpath $CLASSPATH com.validateadwords.batch.inicio.Inicio $D_IMPORT/ >> $F_LOG 2>> $F_LOG
+./validateadwords_batch.sh: line 58: 23428 Killed                  /usr/lib/jvm/java-6-openjdk/bin/java -Xms256M -Xmx512M -Dfile.encoding=UTF-8 -classpath $CLASSPATH com.validateadwords.batch.inicio.Inicio $D_IMPORT/ >> $F_LOG 2>> $F_LOG
